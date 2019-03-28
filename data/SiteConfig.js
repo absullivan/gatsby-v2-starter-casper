@@ -9,7 +9,7 @@ module.exports = {
   siteUrl: "https://haysclark.github.io", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-starter-casper", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
-    "A Casper themed GatsbyJS stater based on the Advanced Starter.", // Website description used for RSS feeds/meta description tag.
+    "A.B. Sullivan's Posts", // Website description used for RSS feeds/meta description tag.
   siteCover:
     "https://haysclark.github.io/gatsby-starter-casper/images/blog-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
@@ -29,17 +29,17 @@ module.exports = {
   userLinks: [
     {
       label: "GitHub",
-      url: "https://github.com/haysclark/gatsby-starter-casper",
+      url: "https://github.com/absullivan",
       iconClassName: "fa fa-github" // Disabled, see Navigation.jsx
     },
     {
       label: "Twitter",
-      url: "https://twitter.com/gatsbyjs",
+      url: "https://twitter.com/absullivan1",
       iconClassName: "fa fa-twitter" // Disabled, see Navigation.jsx
     },
     {
       label: "Email",
-      url: "mailto:gatsbyjs@example.com",
+      url: "mailto:absullivan@gmail.com",
       iconClassName: "fa fa-envelope" // Disabled, see Navigation.jsx
     }
   ],
