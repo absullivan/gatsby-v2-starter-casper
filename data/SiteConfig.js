@@ -2,8 +2,8 @@ module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
   blogAuthorDir: "sample-authors", // The name of directory that contains your 'authors' folder.
   blogAuthorId: "casper", // The default and fallback author ID used for blog posts without a defined author.
-  siteTitle: "Gatsby v2 Casper Starter", // Site title.
-  siteTitleAlt: "GatsbyJS Casper Theme Starter", // Alternative site title for SEO.
+  siteTitle: "A.B. Sullivan's Posts", // Site title.
+  siteTitleAlt: "Asa Nisi Masa", // Alternative site title for SEO.
   siteLogo:
     "https://haysclark.github.io/gatsby-starter-casper/logos/logo-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://haysclark.github.io", // Domain of your website without pathPrefix.
@@ -20,9 +20,9 @@ module.exports = {
   googleAnalyticsID: "UA-111982167-1", // GA tracking ID.
   // disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // enables Disqus comments, visually deviates from original Casper theme.
   siteSocialUrls: [
-    "https://github.com/haysclark/gatsby-starter-casper",
-    "https://twitter.com/gatsbyjs",
-    "mailto:gatsbyjs@example.com"
+    "https://github.com/absullivan",
+    "https://twitter.com/absullivan1",
+    "mailto:absullivan@gmail.com"
   ],
   postDefaultCategoryID: "Tech", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
